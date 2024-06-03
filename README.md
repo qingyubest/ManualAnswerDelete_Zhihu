@@ -10,6 +10,8 @@ https://greasyfork.org/zh-CN/scripts/443471-delete-all-zhihu
 ------------
 感谢插件作者 jun4rui
 
+刚又看了以下。作者的github也有代码   https://github.com/sun-jiao/delete-zhihu
+
 这是我学写的第一段js代码。我代码支持来源chatGPT。
 
 另外加装了一点点功能。
